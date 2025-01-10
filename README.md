@@ -1,6 +1,6 @@
 # LangChain Tutorial (JS)
 
-[source code](https://github.com/leonvanzyl/langchain-js)
+Course [source code](https://github.com/leonvanzyl/langchain-js)
 
 [#1:Intro & Setup](https://www.youtube.com/watch?v=MaSynwSIty4&list=PL4HikwTaYE0EG379sViZZ6QsFMjJ5Lfwj&index=1)
 
